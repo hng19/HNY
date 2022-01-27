@@ -220,7 +220,7 @@ body{
 
 .banner{
     position: absolute;
-    bottom: 14%;
+    bottom: 6%;
     left: 6%;
 }
 
@@ -232,7 +232,7 @@ body{
 .banner2{
     position: absolute;
     right: 6%;
-    bottom: 14%;
+    bottom: 6%;
 }
 
 .text{
