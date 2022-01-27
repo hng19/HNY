@@ -289,13 +289,13 @@ body{
     line-height: 100px;
     position: absolute;
     left: 30%;
-    top: 68%;
+    top: 75%;
     background: linear-gradient(45deg, #ad0200, transparent);
 }
 
 .final3{
-    position: absolute;
-    top: 80%;
+position: absolute;
+    top: 89%;
     left: 65%;
-    color: aliceblue;
+    color: darkslategrey;
 }
