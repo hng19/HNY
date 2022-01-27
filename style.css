@@ -151,7 +151,7 @@ body{
 .line1{
     position: absolute;
     top: 20%;
-    left: 35%;
+    left: 39%;
     z-index: 1;
     font-family: 'Lobster Two', cursive;
     color: rgb(255, 238, 2);
@@ -182,8 +182,8 @@ body{
     font-size: 2em;
     width: 400px;
     position: absolute;
-    top: 120px;
-    left: 525px;
+    top: 20%;
+    left: 45%;
     letter-spacing: 20px;
     animation: year 2s ease-in infinite;
 }
